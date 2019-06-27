@@ -1,0 +1,173 @@
+DEVICE: Phh-Treble vanilla 9
+SCREEN_SIZE: 1080x1920 (softkey)
+
+:start
+touchDown 0 210 1572
+sleep 5
+touchMove 0 212 1568
+sleep 5
+touchMove 0 214 1564
+sleep 5
+touchMove 0 216 1560
+sleep 5
+touchMove 0 218 1555
+sleep 5
+touchMove 0 220 1550
+sleep 5
+touchMove 0 223 1545
+sleep 5
+touchMove 0 226 1540
+sleep 5
+touchMove 0 229 1534
+sleep 5
+touchMove 0 232 1526
+sleep 5
+touchMove 0 236 1518
+sleep 5
+touchMove 0 240 1509
+sleep 5
+touchMove 0 244 1499
+sleep 5
+touchMove 0 249 1490
+sleep 5
+touchMove 0 254 1481
+sleep 5
+touchMove 0 259 1472
+sleep 5
+touchMove 0 265 1463
+sleep 5
+touchMove 0 271 1454
+sleep 5
+touchMove 0 278 1444
+sleep 5
+touchMove 0 285 1436
+sleep 5
+touchMove 0 294 1426
+sleep 5
+touchMove 0 305 1416
+sleep 5
+touchMove 0 316 1406
+sleep 5
+touchMove 0 327 1397
+sleep 5
+touchMove 0 338 1387
+sleep 5
+touchMove 0 350 1377
+sleep 5
+touchMove 0 362 1367
+sleep 5
+touchMove 0 374 1357
+sleep 5
+touchMove 0 386 1348
+sleep 5
+touchMove 0 399 1340
+sleep 5
+touchMove 0 411 1333
+sleep 5
+touchMove 0 424 1326
+sleep 5
+touchMove 0 438 1320
+sleep 5
+touchMove 0 452 1315
+sleep 5
+touchMove 0 467 1311
+sleep 5
+touchMove 0 483 1307
+sleep 5
+touchMove 0 497 1304
+sleep 5
+touchMove 0 511 1301
+sleep 5
+touchMove 0 526 1299
+sleep 5
+touchMove 0 540 1298
+sleep 5
+touchMove 0 555 1297
+sleep 5
+touchMove 0 570 1296
+sleep 5
+touchMove 0 584 1296
+sleep 5
+touchMove 0 599 1297
+sleep 5
+touchMove 0 614 1299
+sleep 5
+touchMove 0 628 1302
+sleep 5
+touchMove 0 641 1306
+sleep 5
+touchMove 0 654 1312
+sleep 5
+touchMove 0 666 1319
+sleep 5
+touchMove 0 678 1327
+sleep 5
+touchMove 0 690 1335
+sleep 5
+touchMove 0 702 1343
+sleep 5
+touchMove 0 714 1352
+sleep 5
+touchMove 0 726 1362
+sleep 5
+touchMove 0 737 1371
+sleep 5
+touchMove 0 748 1381
+sleep 5
+touchMove 0 758 1390
+sleep 5
+touchMove 0 767 1399
+sleep 5
+touchMove 0 777 1408
+sleep 5
+touchMove 0 787 1419
+sleep 5
+touchMove 0 797 1431
+sleep 5
+touchMove 0 807 1442
+sleep 5
+touchMove 0 816 1453
+sleep 5
+touchMove 0 824 1463
+sleep 5
+touchMove 0 832 1474
+sleep 5
+touchMove 0 840 1484
+sleep 5
+touchMove 0 848 1494
+sleep 5
+touchMove 0 857 1504
+sleep 5
+touchMove 0 865 1513
+sleep 5
+touchMove 0 873 1521
+sleep 5
+touchMove 0 880 1528
+sleep 5
+touchMove 0 886 1535
+sleep 5
+touchMove 0 891 1542
+sleep 5
+touchMove 0 895 1549
+sleep 5
+touchMove 0 898 1558
+sleep 5
+touchMove 0 900 1567
+sleep 5
+touchMove 0 901 1576
+sleep 5
+touchMove 0 902 1585
+sleep 5
+touchMove 0 902 1595
+sleep 5
+touchMove 0 902 1605
+sleep 5
+touchMove 0 903 1615
+sleep 5
+touchMove 0 905 1626
+sleep 5
+touchMove 0 905 1630
+sleep 5
+touchUp 0
+
+:end

@@ -1,0 +1,15 @@
+DEVICE: Phh-Treble vanilla 9
+SCREEN_SIZE: 1080x1920 (softkey)
+
+:start
+touchDown 0 226 1328
+sleep 100
+touchMove 0 560 1021
+sleep 100
+touchMove 0 575 1774
+sleep 100
+touchMove 0 894 1420
+sleep 100
+touchUp 0
+
+:end
