@@ -4,7 +4,7 @@ SCREEN_SIZE: 1080x1920 (softkey)
 :start
 touchDown 0 718 856
 sleep 100
-touchMove 0 560 1124
+touchMove 0 539 1122
 sleep 100
 touchMove 0 822 1622
 sleep 100
